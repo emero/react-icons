@@ -49,8 +49,8 @@
     "underscore": "^1.8.3"
   },
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "15.0.1",
+    "react-dom": "15.0.1"
   },
   "dependencies": {
     "react-icon-base": "1.0.0"
